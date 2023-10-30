@@ -1,4 +1,4 @@
-# Module_3_Challenge
+# pandas-challenge
 Due Monday 10/30  by 11:59pm
 https://www.statology.org/pandas-count-unique-values/ for counting unique values. Not much to say about the beginning. This time the code is kinda spoon-fed to us.
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html for set_index and lesson 4.1, 04-Stu_DataFrameShop_Pandas. The counting is done in this exercise 06-Stu_TrainingGrounds_DataFunctions in 4.1 as well.
