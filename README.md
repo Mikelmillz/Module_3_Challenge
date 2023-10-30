@@ -8,5 +8,7 @@ I then used https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_in
 I found lesson 4.3 03-Ins_Binning helpful for the cut funtion and bins. I will say that adding those $ ealier for the table was a pain since they turned that data into a string, which was giving me an error when trying to use the bins. After troubleshooting to get different errors I realized that we formated that column with the $ which was making that a string and I needed to make it read as an interger/float again to make the bins work. Once I finally realized that, I found https://stackoverflow.com/questions/38516481/trying-to-remove-commas-and-dollars-signs-with-pandas-in-python to be helpful.
 I did change the second labels to labels2 so that I can have them be distinct (for my mind). The rest was just rince and repeat for groupby and dataframes.
 
+I uploaded the picture they gave with the code that we were to download. Not sure why it was there as I can't find anywhere that we needed to save a picture, but I pushed it through since it was easy just to keep it with everything I was doing.
+
 
 
